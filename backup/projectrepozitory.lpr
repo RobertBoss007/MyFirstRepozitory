@@ -5,6 +5,5 @@ writeln ('Hello, World');
 readln;
 end;
 begin
-  hello1;
 end.
 

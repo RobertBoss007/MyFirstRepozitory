@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1286869661"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Robert Oganesyan\Desktop\Nová složka\MyFirstRepozitory\lib\x86_64-win64&quot; &quot;-FuC:\Users\Robert Oganesyan\Desktop\Nová složka\MyFirstRepozitory\&quot; &quot;-FUC:\Users\Robert Oganesyan\Desktop\Nová složka\MyFirstRepozitory\lib\x86_64-win64\&quot; projectrepozitory.lpr"/>
+</CONFIG>
