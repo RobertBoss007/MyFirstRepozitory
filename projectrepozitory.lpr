@@ -1,0 +1,5 @@
+program projectrepozitory;
+
+begin
+end.
+
